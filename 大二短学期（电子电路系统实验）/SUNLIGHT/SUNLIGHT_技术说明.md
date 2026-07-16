@@ -1,4 +1,4 @@
-# SUNLIGHT 最终版技术说明
+# SUNLIGHT 技术说明
 
 ## 1. 系统功能
 
